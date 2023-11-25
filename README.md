@@ -1,9 +1,12 @@
-# Color Shades Generator App
+# Generador de Paletas de Color con React
 
-- You can clone this repository to get the source code on your PC and then run `npm install` to install dependencies and packages.
-- `npm start` helps you start the server locally.
+Este proyecto forma parte de la práctica del curso de Desarrollo de Aplicaciones Web [DAW](https://github.com/iamabhijeet2003/DAW.git). Se trata de una aplicación desarrollada en React que permite generar paletas de colores de manera interactiva y visualmente atractiva.
 
-API - [values.js](https://noeldelgado.github.io/values.js/)
+## Características
+
+- **Generación de Paletas:** Crea paletas de colores personalizadas con diferentes tonos y matices.
+- **Exploración Visual:** Visualiza y ajusta los colores de forma interactiva para encontrar combinaciones perfectas.
 
 
-Live URL deployed [here](https://colorshadess-generator.netlify.app/).
+### [Live Demo](https://abhijeet-practica3-4.vercel.app/)
+   
