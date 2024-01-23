@@ -10,3 +10,4 @@ Este proyecto forma parte de la práctica del curso de Desarrollo de Aplicacione
 
 ### [Live Demo](https://proyecto-abhi-miguel-i7dtxvgm3-abhijeet-singhs-projects.vercel.app/)
    
+## [![DOI](https://zenodo.org/badge/720246962.svg)](https://zenodo.org/doi/10.5281/zenodo.10556244)
